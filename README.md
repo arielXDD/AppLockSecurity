@@ -1,30 +1,30 @@
 # AppLockSecurity
 
-AppLockSecurity is a robust application vault designed to conceal and protect your sensitive applications and data. Disguised as a standard calculator, it offers an unobtrusive and highly secure environment to maintain your privacy.
+AppLockSecurity es una robusta bóveda de aplicaciones diseñada para ocultar y proteger tus aplicaciones y datos confidenciales. Disfrazada como una calculadora estándar, ofrece un entorno discreto y altamente seguro para mantener tu privacidad.
 
-## Features
+## Características
 
-* **Disguised Interface:** Operates as a fully functional calculator, ensuring the vault remains hidden from casual observation.
-* **Biometric Authentication:** Supports secure access using fingerprint and facial recognition.
-* **Intruder Detection:** Automatically captures photos of unauthorized users attempting to access the vault.
-* **Secure Storage:** Employs advanced encryption to protect your data and stored applications.
-* **Granular Permissions Management:** Provides complete control over application access and system permissions.
+* **Interfaz Disfrazada:** Funciona como una calculadora completamente operativa, asegurando que la bóveda permanezca oculta a simple vista.
+* **Autenticación Biométrica:** Soporta acceso seguro mediante huella dactilar y reconocimiento facial.
+* **Detección de Intrusos:** Captura automáticamente fotos de usuarios no autorizados que intenten acceder a la bóveda.
+* **Almacenamiento Seguro:** Emplea cifrado avanzado para proteger tus datos y aplicaciones almacenadas.
+* **Gestión Granular de Permisos:** Proporciona un control completo sobre el acceso a las aplicaciones y los permisos del sistema.
 
-## Technologies Used
+## Tecnologías Utilizadas
 
-* **Flutter:** Cross-platform framework for a seamless experience on both Android and iOS.
-* **Dart:** Programming language powering the application logic.
-* **Secure Encryption:** Utilizes `flutter_secure_storage` and `encrypt` packages for robust data protection.
-* **Biometrics:** Integrates `local_auth` for secure and convenient access.
+* **Flutter:** Framework multiplataforma para una experiencia fluida tanto en Android como en iOS.
+* **Dart:** Lenguaje de programación que impulsa la lógica de la aplicación.
+* **Cifrado Seguro:** Utiliza los paquetes `flutter_secure_storage` y `encrypt` para una sólida protección de datos.
+* **Biometría:** Integra `local_auth` para un acceso seguro y conveniente.
 
-## Getting Started
+## Primeros Pasos
 
-To build and run this application locally, ensure you have the Flutter SDK installed and configured for your target platform (Android/iOS).
+Para compilar y ejecutar esta aplicación localmente, asegúrate de tener el SDK de Flutter instalado y configurado para tu plataforma objetivo (Android/iOS).
 
-1. Clone the repository.
-2. Run `flutter pub get` to fetch dependencies.
-3. Run `flutter run` on your connected device or emulator.
+1. Clona el repositorio.
+2. Ejecuta `flutter pub get` para descargar las dependencias.
+3. Ejecuta `flutter run` en tu dispositivo conectado o emulador.
 
-## License
+## Licencia
 
-This project is proprietary and confidential.
+Este proyecto es propietario y confidencial.
