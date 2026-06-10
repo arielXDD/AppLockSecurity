@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device-admin>
+    <uses-policies>
+        <!-- Dejamos las políticas vacías para que no pida permisos aterradores como "Borrar datos". 
+             El simple hecho de ser Device Admin ya protege la app de desinstalación casual. -->
+    </uses-policies>
+</device-admin>
